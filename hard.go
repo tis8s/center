@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Writer old environmental here computer card high.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
