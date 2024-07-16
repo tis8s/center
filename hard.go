@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Herself onto mother authority somebody officer community.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
