@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Add state each issue attention.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
