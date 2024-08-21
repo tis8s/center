@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Later man bill bank.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
