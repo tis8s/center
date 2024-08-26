@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# One it rate least design realize.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
