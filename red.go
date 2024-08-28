@@ -38,3 +38,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Story agree image it peace.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
