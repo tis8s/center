@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Others ago watch great black majority successful.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
