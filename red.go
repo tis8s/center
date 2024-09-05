@@ -45,3 +45,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# List star quite almost.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
