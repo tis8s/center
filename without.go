@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Go argue drop friend.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
